@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezc1/innovacion/master)
 # Ejemplo de Escenario de aprendizaje computacional con SolidsPy.
 Este repositorio complementa el documento titulado "SolidsPy: Código por elementos finitos basado en Python para la construcción de ambientes de aprendizaje computacional." El notebook describe a manera de ejemplo una
 actividad mediante la estrategia de aula inversa con aprendizaje activo correspondiente al curso Mecánica de los Medios Continuos de la Universidad EAFIT.
